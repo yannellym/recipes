@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+/* base styles */
+* {
+  margin: 0;
+  font-family: 'Dangrek', cursive;
+  color: #333;
+  padding: 0;
+}
+.navbar {
+  padding: 2%;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  border-bottom: 2px solid #505050;
+}
+.navbar h1 {
+  color: #3551f1;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 20px;
+  text-decoration: none;
+  padding: 6px;
+}
+.add-recipe{
+  border: none;
+  border-radius: 5px;
+  background-color: #3551f1;
+  color: white;
+  height: 3rem;
+  width: 6rem;
+  font-size: 15px;
+}
+.add-recipe:hover {
+  background-color: #ff0808;
+}

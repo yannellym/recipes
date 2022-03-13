@@ -1,0 +1,46 @@
+/* create new blog form */
+.create {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(241, 239, 239);
+  }
+  .create label {
+    text-align: left;
+    display: block;
+    color: white;
+  }
+  .create h1 {
+    
+    color: blue;
+   padding-top: 2%;
+  }
+  .create input, .create textarea, .create select {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+  .create button {
+    background: #ff004c;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 5%;
+    width: 30%;
+    
+  }
+ form {
+    background-color: rgb(38, 38, 255);
+    padding: 4rem;
+    width: 30%;
+    margin: 2% auto;
+    border-radius: 20px;
+    color: white;
+  }
+ 

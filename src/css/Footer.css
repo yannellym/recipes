@@ -1,0 +1,10 @@
+.footer{
+  padding: 2%;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  height: 4rem;
+  display: block;
+}
+.footer > h1, p {
+    color: rgb(21, 5, 252);
+}   
